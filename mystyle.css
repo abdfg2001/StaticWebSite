@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(36, 156, 120);
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+img {
+  width:150px;
+  height:160px;
+}
+
+p.center {
+  text-align: center;
+  color: red;
+}
+
+p.large {
+  font-size: 300%;
+}
+
+.intro {
+  background-color: yellow;
+}
+
+.ligar{
+  color: rgb(167, 250, 171);
+  font-size: 300%;
+}
+
+#firstname {
+  background-color: rgb(72, 7, 223);
+}
